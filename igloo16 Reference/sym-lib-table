@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lshm)(type Legacy)(uri ${KIPRJMOD}/lib_symbols/LSHM-120-02.5-L-DV-A-S-TR.lib)(options "")(descr ""))
+  (lib (name wirebonds)(type Legacy)(uri ${KIPRJMOD}/lib_symbols/wirebonds.lib)(options "")(descr ""))
+  (lib (name Igloo16-rescue)(type Legacy)(uri ${KIPRJMOD}/Igloo16-rescue.lib)(options "")(descr ""))
+)

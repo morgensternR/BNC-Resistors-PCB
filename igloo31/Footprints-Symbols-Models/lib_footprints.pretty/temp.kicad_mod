@@ -1,0 +1,14 @@
+(module "temp" (layer F.Cu)
+(fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
+(effects (font (size 1.27 1.27) (thickness 0.15)))
+)
+(fp_text value Val** (at 0 0) (layer F.SilkS) hide
+(effects (font (size 1.27 1.27) (thickness 0.15)))
+)
+(fp_line (start 20.303586 -4.002988) (end 16.813136 -3.936878) (layer Edge.Cuts) (width 0.1))
+(fp_line (start 16.813136 -3.936878) (end 10.803386 6.039183) (layer Edge.Cuts) (width 0.1))
+(fp_line (start 10.803386 6.039183) (end 15.410956 22.412404) (layer Edge.Cuts) (width 0.1))
+(fp_line (start 15.410956 22.412404) (end 29.803786 11.166073) (layer Edge.Cuts) (width 0.1))
+(fp_line (start 29.803786 11.166073) (end 27.478396 -2.365778) (layer Edge.Cuts) (width 0.1))
+(fp_line (start 27.478396 -2.365778) (end 20.303586 -4.002988) (layer Edge.Cuts) (width 0.1))
+)

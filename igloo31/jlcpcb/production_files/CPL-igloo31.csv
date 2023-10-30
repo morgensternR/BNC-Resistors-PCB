@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,0.0,0.15,180.0,bottom
+U1,wirebond_10x_1cm,wirebond_10x_1cm,-10.5,-0.0,-90.0,top
+U2,wirebond_10x_1cm,wirebond_10x_1cm,10.5,-0.0,90.0,top
